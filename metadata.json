@@ -1,0 +1,6 @@
+{
+  "name": "Protons Tuition Centre",
+  "description": "An interactive, innovative, and AI-powered learning platform empowering students through quality teaching, smart revision recommendations, quizzes, and automated support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
